@@ -1,4 +1,5 @@
 DISCLAIMER: NONE OF THE ASCII ART IS MINE
+This is a log of each day: the projects i did and what lines they are on.
 
 Day_1: 
 -Line 1: 41
