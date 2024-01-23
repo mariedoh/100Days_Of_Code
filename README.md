@@ -12,7 +12,7 @@ Day_3:
 
 Day_4
 -Lines 230-290
--Bill Roulette (Who gon pay?), Heads or Tails (Random), Setting treasure (Can be modified into and x and o game. This is a basic version however).
+-Bill Roulette (Who gon pay?), Heads or Tails (Random), Setting treasure (Can be modified into an x and o game. This is a basic version however).
 
 Day 5
 -Lines 292 - 390
