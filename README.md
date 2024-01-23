@@ -1,4 +1,4 @@
-DISCLAIMER: NONE OF THE ASCII ART IS MINE
+DISCLAIMER: NONE OF THE ASCII ART IS MINE, ALL CODE IS IN PYTHON
 This is a log of each day: the projects i did and what lines they are on.
 
 Day_1: 
@@ -45,3 +45,6 @@ Day 11
 Day 12
 -Number Guessing Game
 - Lines 451 - 461
+
+Day 19
+-Etch a Sketch
