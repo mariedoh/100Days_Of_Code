@@ -48,3 +48,8 @@ Day 12
 
 Day 19
 -Etch a Sketch
+
+
+Day 20
+-Duplicating an image i found on Pinterest with HTML and CSS
+-In case it's already not clear, the photo is not mine.
